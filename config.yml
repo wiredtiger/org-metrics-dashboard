@@ -3,7 +3,7 @@
 organization: 'wiredtiger'
 
 # Start date to pull metrics from
-since: '204-03-04'
+since: '2024-03-04'
 
 # GitHub Pages path to the repository
 # Used for handling relative paths for assets
